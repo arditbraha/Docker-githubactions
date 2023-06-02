@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:latest 
 
 ENV DEBIAN_FRONTEND=non-interactive
 # Install dependencies
